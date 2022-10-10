@@ -7,9 +7,6 @@
     <a href="https://t.me/ktrntrsv" target="_blank">
       <img src="https://sun9-86.userapi.com/impg/s5d1wFPdlUYRuKAkXpn5mPQLPD_XMQaEyi5Lag/PMLsagpZOkM.jpg?size=901x288&quality=96&sign=b2ffed6a17a250a74279d6a63d883a03&type=album" alt="Telegram Badge" width="100"/>
     </a>
-    <a href="ktrntrsv@gmail.com" target="_blank">
-      <img src="https://sun9-15.userapi.com/impg/_grgR8JRoWw3UeFu0J3_ErQ0ul-zY2YLjcEDkw/kZ_1531YXdA.jpg?size=901x288&quality=96&sign=de80c0c433a6c5f53fb1670db4dc8032&type=album" alt="Gmail Badge" width="100"/>
-    </a>
   </div>
   <br>
   <br>
