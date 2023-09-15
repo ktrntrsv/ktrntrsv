@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h2>
-    Привет :)
+    Привет!
   </h2>
   <img src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b952507f4d837e9c2c48de07ef16dd7426605731dd9b&rid=giphy.gif&ct=s" width="250" height="250"/>
   <div id="badges">
